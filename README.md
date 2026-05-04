@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Matheus Alves 👋</h1>
 
-<!--
-**devmatheus010/devmatheus010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Estudante de Ciências da Computação • Desenvolvedor Backend • Buscando estágio em desenvolvimento de software</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/devmatheusalves" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-devmatheusalves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/devmatheus010" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-devmatheus010-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Cursando **Ciências da Computação** (6º semestre)
+- 💼 Buscando oportunidade de **estágio em desenvolvimento de software**
+- 🔧 Focado em desenvolvimento **backend com Java e Spring Boot**
+- 🚀 Atualmente desenvolvendo um **sistema de Helpdesk** com API REST
+- 📚 Sempre aprendendo e evoluindo
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🚧 Projeto em destaque
+
+### 🎫 Sistema Helpdesk
+> API REST para gerenciamento de chamados de suporte técnico
+
+- ⚙️ **Stack:** Java · Spring Boot · API REST
+- 📌 **Funcionalidades:** Abertura e acompanhamento de tickets, controle de status, gestão de usuários
+- 🔗 **Repositório:** [Ver no GitHub](#) *(github.com/devmatheus010/helpdesk_Api)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devmatheus010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheus010&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/devmatheusalves" target="_blank">
+    <img src="https://img.shields.io/badge/Vamos_conversar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devmatheus010&color=6DB33F&style=flat-square&label=Visitantes+no+perfil" />
+</p>
